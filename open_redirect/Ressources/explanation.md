@@ -1,0 +1,5 @@
+- Risk: phishing Website users and redirect them to harmful websites
+- solution :
+    - use relative and absolute paths/links
+    - whitelisting the individual sites that you permit redirects to.
+- Method: change website redirection url in a tag

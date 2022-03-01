@@ -1,0 +1,6 @@
+- Risk: it allows the attacker to inject malicious code to be executed in the server through user input in forms, cookies, session tokens, response headers, etc...
+- solution : advanced validation of input, encoding data on output
+- Method used:
+    - pass "script" in Message and flag will appear
+    - the only understandable behavior is the backend detect malicious script code such as "<script>" tag, "alert", ... then deleted it
+    - therefore the attacker can go from this point and override the deleted script.

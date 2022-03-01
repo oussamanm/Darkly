@@ -1,0 +1,4 @@
+- Risk: reset new password of another user
+- breach: Pass sensible data in a hidden input
+- solution: validate input from user in the backend side.
+- Method: Change existing mail in a hidden file

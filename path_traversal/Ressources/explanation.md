@@ -1,0 +1,5 @@
+- Vulnerability Name: directory traversal
+- Risk: attacker might be able to write to arbitrary files on the server, allowing them to modify application data or behavior, and ultimately take full control of the server.
+- breach: bad or none input validation in the web server allow to access files within url therefore navigating through directories and access random files within the server.
+- solution: prohibt access to files/directories through URL and redirect to 404 instead.
+- Method: pass to a value to a param in url : ?page=../../../../../../../etc/passwd

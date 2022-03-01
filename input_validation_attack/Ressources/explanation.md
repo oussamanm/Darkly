@@ -1,0 +1,4 @@
+- Vulnerability: Input Validation Attack
+- Risk: can lead to massive scale information attacks...
+- solution: add validation in front and backend side of incoming input.
+- Method: Exceed select range value in survey

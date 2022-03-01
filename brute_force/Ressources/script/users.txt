@@ -1,0 +1,21 @@
+admin
+adminasd
+qwerty 123456
+abcdef123
+a123456
+abc123
+password
+asdf
+hello
+welcome
+zxcvbn
+Qazwsx
+654321
+123321
+000000
+111111
+987654321
+1q2w3e
+123qwe
+qwertyuiop
+gfhjkm
